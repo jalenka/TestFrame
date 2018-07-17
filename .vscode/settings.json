@@ -1,0 +1,9 @@
+{
+    "python.pythonPath": "C:\\Users\\jalen\\AppData\\Local\\Programs\\Python\\Python37-32\\python.exe",
+    "python.unitTest.pyTestArgs": [
+        "."
+    ],
+    "python.unitTest.unittestEnabled": false,
+    "python.unitTest.nosetestsEnabled": false,
+    "python.unitTest.pyTestEnabled": true
+}
